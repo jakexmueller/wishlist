@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wishlist", "wishlist\wishlist.csproj", "{14FD2BED-F80D-4397-9D23-15900641CB57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14FD2BED-F80D-4397-9D23-15900641CB57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14FD2BED-F80D-4397-9D23-15900641CB57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14FD2BED-F80D-4397-9D23-15900641CB57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14FD2BED-F80D-4397-9D23-15900641CB57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E9962DF-B0B6-4582-B46F-CA8E8028FD94}
+	EndGlobalSection
+EndGlobal
